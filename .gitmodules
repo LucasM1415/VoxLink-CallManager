@@ -1,0 +1,12 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/LucasM1415/VoxLink-FrontEnd.git
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/LucasM1415/VoxLink-Backend.git
+[submodule "Tests"]
+	path = Tests
+	url = https://github.com/LucasM1415/VoxLink-Tests.git
+[submodule "DataBase"]
+	path = DataBase
+	url = https://github.com/LucasM1415/VoxLink-DataBase.git
